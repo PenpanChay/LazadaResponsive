@@ -133,7 +133,7 @@
           </div>
           <hr class="line-sale" />
           <div class="row row-cols-lg-6 row-cols-2 ml-1 mr-1">
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/iphone.jpg" class="w-100" />
               <p class="txt-forth-size">
                 iPhone 13 Pro [ONEDERFUL WALLET วันที่ 5 มิ.ย. 65] - 1
@@ -145,7 +145,7 @@
                 -99%
               </p>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/wallet.jpg" class="w-100" />
               <p class="txt-forth-size">
                 เงินวอลเล็ต มูลค่า 6,666 บาท [ONEDERFUL WALLET วันที่ 5 มิ.ย.
@@ -156,7 +156,7 @@
                 <span style="text-decoration: line-through">฿6666.00</span> -99%
               </p>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/kfc.jpg" class="w-100" />
               <p class="txt-forth-size">
                 เฉพาะ Self Pick-Up รับหน้าร้าน เท่านั้น E voucher KFC Fried
@@ -167,7 +167,7 @@
                 <span style="text-decoration: line-through">฿39.00</span> -38%
               </p>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/true.jpg" class="w-100" />
               <p class="txt-forth-size">TrueMove 10</p>
               <p class="txt-second-size">฿5.00</p>
@@ -175,7 +175,7 @@
                 <span style="text-decoration: line-through">฿10.00</span> -50%
               </p>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/fashion.jpg" class="w-100" />
               <p class="txt-forth-size">
                 iFashion 046 [S-5XL] กางเกงยีนส์ผู้หญิงแฟชั่น เอวสูง สกินนี่
@@ -186,7 +186,7 @@
                 <span style="text-decoration: line-through">฿490.00</span> -71%
               </p>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/flashsale/watch.jpg" class="w-100" />
               <p class="txt-forth-size">
                 Riches Mall นาฬิกาดิจิตอล นาฬิกาผู้ชายและผู้หญิง กีฬา กันน้ำ
@@ -222,13 +222,13 @@
               <p class="txt-forth-size text-center">Show off your wallets ></p>
               <p class="txt-forth-size text-center">1,695 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/1.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/2.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/3.jpg" class="w-100" />
                 </div>
               </div>
@@ -237,13 +237,13 @@
               <p class="txt-forth-size text-center">เล่นกีฬาไม่กลัวดำ ></p>
               <p class="txt-forth-size text-center">1,568 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/4.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/5.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/6.jpg" class="w-100" />
                 </div>
               </div>
@@ -252,13 +252,13 @@
               <p class="txt-forth-size text-center">Healthy Beauty ></p>
               <p class="txt-forth-size text-center">464 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/7.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/8.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/9.jpg" class="w-100" />
                 </div>
               </div>
@@ -267,13 +267,13 @@
               <p class="txt-forth-size text-center">Bathroom Idea ></p>
               <p class="txt-forth-size text-center">1,115 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/10.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/11.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/12.jpg" class="w-100" />
                 </div>
               </div>
@@ -287,13 +287,13 @@
               </p>
               <p class="txt-forth-size text-center">3,018 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/13.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/14.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/15.jpg" class="w-100" />
                 </div>
               </div>
@@ -302,13 +302,13 @@
               <p class="txt-forth-size text-center">Top hit toys ></p>
               <p class="txt-forth-size text-center">9,113 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/16.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/17.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/18.jpg" class="w-100" />
                 </div>
               </div>
@@ -317,13 +317,13 @@
               <p class="txt-forth-size text-center">Best Deal Mobile ></p>
               <p class="txt-forth-size text-center">1,104 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/19.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/20.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/21.jpg" class="w-100" />
                 </div>
               </div>
@@ -332,13 +332,13 @@
               <p class="txt-forth-size text-center">ลุกน้อยเล่นสนุก ></p>
               <p class="txt-forth-size text-center">19,952 products</p>
               <div class="row">
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/22.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/23.jpg" class="w-100" />
                 </div>
-                <div class="col-4">
+                <div class="col-4 img-box">
                   <img src="@/static/images/collection/24.jpg" class="w-100" />
                 </div>
               </div>
@@ -366,9 +366,9 @@
           <div
             class="row row-cols-lg-6 row-cols-2 ml-1 mr-1 pt-3 pb-3 text-center"
           >
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/1.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo1.jpg"
                   class="text-center w-25"
@@ -377,9 +377,9 @@
                 <p class="txt-forth-size text-center">LOOK GOOD, FEEL GREAT</p>
               </div>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/2.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo2.jpg"
                   class="text-center w-25"
@@ -388,9 +388,9 @@
                 <p class="txt-forth-size text-center">Villa Market</p>
               </div>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/3.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo3.jpg"
                   class="text-center w-25"
@@ -401,9 +401,9 @@
                 </p>
               </div>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/4.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo4.jpg"
                   class="text-center w-25"
@@ -412,9 +412,9 @@
                 <p class="txt-forth-size text-center">無印良品</p>
               </div>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/5.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo5.jpg"
                   class="text-center w-25"
@@ -427,9 +427,9 @@
                 </p>
               </div>
             </div>
-            <div class="col">
+            <div class="col img-box">
               <img src="@/static/images/LazMall/6.jpg" class="border-img" />
-              <div class="text-center marg-logo bg-white">
+              <div class="text-center marg-logo bg-white img-box">
                 <img
                   src="@/static/images/LazMall/logo6.jpg"
                   class="text-center w-25"
@@ -450,62 +450,62 @@
       <div class="border-sale pt-2 pb-2">
         <div class="container">
           <div class="row row-cols-lg-6 row-cols-3 ml-1 mr-1 pt-3 pb-3">
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/1.jpg" />
               <p class="txt-forth-size text-center pt-3">Mobiles</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/2.jpg" />
               <p class="txt-forth-size text-center pt-3">
                 Electrical Circuitry & Parts
               </p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/3.jpg" />
               <p class="txt-forth-size text-center pt-3">Outdoor Lighting</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/4.jpg" />
               <p class="txt-forth-size text-center pt-3">
                 Plant, Seeds and Bulbs
               </p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/5.jpg" />
               <p class="txt-forth-size text-center pt-3">Women's Dresses</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/6.jpg" />
               <p class="txt-forth-size text-center pt-3">Lawn Mowers</p>
             </div>
           </div>
           <hr class="line-sale" />
           <div class="row row-cols-lg-6 row-cols-3 ml-1 mr-1 pt-3 pb-3">
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/7.jpg" />
               <p class="txt-forth-size text-center pt-3">Wireless Earbuds</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/8.jpg" />
               <p class="txt-forth-size text-center pt-3">
                 Phone Cables & Converters
               </p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/9.jpg" />
               <p class="txt-forth-size text-center pt-3">Drills & Drivers</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/10.jpg" />
               <p class="txt-forth-size text-center pt-3">en's T-Shirts</p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/11.jpg" />
               <p class="txt-forth-size text-center pt-3">
                 Wireless and Bluetooth Speakers
               </p>
             </div>
-            <div class="col text-center">
+            <div class="col text-center img-box">
               <img src="@/static/images/Categories/12.jpg" />
               <p class="txt-forth-size text-center pt-3">Health Accessories</p>
             </div>
@@ -521,7 +521,7 @@
       <div class="pt-2 pb-2">
         <div class="container">
           <div class="row row-cols-lg-6 row-cols-2 ml-1 mr-1 pt-3 pb-3">
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/1.jpg"
                 class="border-img-just"
@@ -543,7 +543,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/2.jpg"
                 class="border-img-just"
@@ -565,7 +565,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/3.jpg"
                 class="border-img-just"
@@ -587,7 +587,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/4.jpg"
                 class="border-img-just"
@@ -609,7 +609,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/5.jpg"
                 class="border-img-just"
@@ -631,7 +631,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/6.jpg"
                 class="border-img-just"
@@ -655,7 +655,7 @@
             </div>
           </div>
           <div class="row row-cols-lg-6 row-cols-2 ml-1 mr-1 pt-3 pb-3">
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/7.jpg"
                 class="border-img-just"
@@ -676,7 +676,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/8.jpg"
                 class="border-img-just"
@@ -698,7 +698,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/9.jpg"
                 class="border-img-just"
@@ -717,7 +717,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/10.jpg"
                 class="border-img-just"
@@ -739,7 +739,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/11.jpg"
                 class="border-img-just"
@@ -761,7 +761,7 @@
                 </p>
               </div>
             </div>
-            <div class="col text-center pb-3">
+            <div class="col text-center pb-3 img-box">
               <img
                 src="@/static/images/justforyou/12.jpg"
                 class="border-img-just"

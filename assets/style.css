@@ -94,3 +94,7 @@ hr .line-sale {
 .txt-cen {
     text-align: -webkit-center;
 }
+
+.img-box:hover img {
+    opacity: .5;
+}

@@ -2,13 +2,13 @@
   <div>
     <div class="container">
       <div class="row row-cols-lg-3 row-cols-1">
-        <div class="col pb-2">
+        <div class="col pb-2 img-box">
           <img src="@/static/images/footer/1.jpg" width="100%" />
         </div>
-        <div class="col pb-2">
+        <div class="col pb-2 img-box">
           <img src="@/static/images/footer/2.jpg" width="100%" />
         </div>
-        <div class="col pb-2">
+        <div class="col pb-2 img-box">
           <img src="@/static/images/footer/3.jpg" width="100%" />
         </div>
       </div>
