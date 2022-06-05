@@ -1,0 +1,96 @@
+body,
+html {
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+    /* background: linear-gradient(to right, var(--main), var(--main-2), var(--main)); */
+    background: #e7e8ec;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.txt-first-size {
+    font-size: 2rem;
+}
+
+.border-sale {
+    border: 1px solid #fff;
+    background: #fff;
+}
+
+.txt-second-size {
+    font-size: 1.75rem;
+    color: red;
+}
+
+.txt-thrid-size {
+    font-size: 1.75rem;
+    color: #000;
+}
+
+.txt-forth-size {
+    font-size: 1.25rem;
+    color: #000;
+}
+
+.txt-fifth-size {
+    font-size: 1rem;
+    color: #000;
+}
+
+.txt-orange {
+    color: #F36F36;
+    font-size: 1.5rem;
+}
+
+.box-product {
+    float: right;
+    border: 1px solid red;
+    width: fit-content;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+hr {
+    border-left: 0;
+}
+
+hr .line-sale {
+    border-top: 3px solid #e7e8ec;
+}
+
+.box-more {
+    float: right;
+    color: #1a9cb7;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.box-more p {
+    font-size: 1.25rem;
+}
+
+.bord-r {
+    border-right: 1px solid #e7e8ec;
+}
+
+.marg-logo {
+    margin-top: -20px;
+}
+
+.border-img-just {
+    width: 150px;
+    height: 150px;
+}
+
+.border-load {
+    border: 3px solid #1a9cb8;
+    color: #1a9cb8;
+    width: 50%;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.txt-cen {
+    text-align: -webkit-center;
+}
